@@ -1,0 +1,51 @@
+CPP OOP NOTES:
+
+Why OOP?
+--------
+
+    -Faster
+    -DRY code
+    -maintain, modify, debug
+    -short
+
+Class vs Object
+---------------
+
+    class  |         object
+    fruit  |    apple, banaba, lichi
+     car   |     bmw, toyota, audi
+  template |        instance
+
+Keyword
+-------
+
+    class public MyClass myNum myString
+
+Class Methods
+-------------
+
+    Declaration 2 way
+        -from inside
+        -from outside(define outside)
+        
+Constructors
+------------
+
+    -have no return value
+    -same name as class and it is a special method which is called asap when new object is created
+    
+Access Specifiers
+-----------------
+
+    public private(dafault) protected
+    
+Encalsulation
+-------------
+
+Inheritance
+-----------
+
+    
+    
+    
+    
